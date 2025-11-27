@@ -160,7 +160,7 @@ The main features of Markdown are summarized here. The full documentation is on-
 [^4]: <https://quarto.org/docs/authoring/markdown-basics.html/>
 
 $$
-s = c A^z 
+s = c A^z
 $$ {#eq-Arrhenius}
 
 ## R and other code
