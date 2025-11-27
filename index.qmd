@@ -12,7 +12,7 @@ format:
     css: colors.css
 # Authors (https://quarto.org/docs/journals/authors.html#author-schema)
 author:
-  - name: John Doe
+  - name: Joh Doe
     affiliations:
       - name: Dummy Organization
         department: Scientific Department
